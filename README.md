@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jowairyak@gmail.com**
 
-- ⚡ Fun facts: **Spent 10 years on the basketball court learning that the best teams don't just play together, they think together, and honestly basketball taught me teamwork better than any group project ever did. That stuck with me even after I traded the court for a keyboard in 2020. Now I host deep question games with my friends because small talk genuinely bores me, write more than most people expect from an AI student, and do my best debugging at 2 am when the world is quiet. I can map out an A star algorithm from memory but will absolutely get lost driving in Alexandria. And if you ever see me laughing in a way that's not quite happy and not quite evil, that's just my anger laugh. My friends know to back off.**
+- ⚡ Fun facts: ***Spent 10 years on the basketball court learning that the best teams don't just play together, they think together, and honestly basketball taught me teamwork better than any group project ever did. That stuck with me even after I traded the court for a keyboard in 2020. Now I host deep question games with my friends because small talk genuinely bores me, write more than most people expect from an AI student, and do my best debugging at 2 am when the world is quiet. I can map out an A* algorithm from memory but will absolutely get lost driving in Alexandria. And if you ever see me laughing in a way that's not quite happy and not quite evil, that's just my anger laugh. My friends know to back off.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
