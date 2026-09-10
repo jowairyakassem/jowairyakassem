@@ -1,17 +1,17 @@
 <h1 align="center">Hi👋, I'm Jowairya Kassem👾 (aka JK🤪)</h1>
 <h3 align="center">AI student building intelligent systems across machine learning, full stack development, and system design</h3>
 
-- 🔭 I'm currently working on [Daleel, a wheelchair accessibility platform](https://github.com/jowairyakassem/DALEEL)
+- 🔭 I'm currently working on [my undergrad graduation project]
 
-- 🌱 I'm currently learning **Advanced NLP, LLM integration, Tableau, and Power BI**
+- 🌱 I'm currently learning **Advanced SQL, Tableau, and Power BI**
 
-- 👯 I'm looking to collaborate on [AI and full stack projects that solve real world problems](https://github.com/jowairyakassem)
+- 👯 I'm looking to collaborate on [AI and Data Analytics projects that solve real world problems](https://github.com/jowairyakassem)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jowairyakassem](https://github.com/jowairyakassem)
 
-- 💬 Ask me about **Machine learning, full stack development, and algorithm optimization**
+- 💬 Ask me about **data analytics, machine learning, and full stack development**
 
-- 📫 How to reach me **jowairyak@gmail.com**
+- 📫 How to reach me **jowairya.mohamed.fahmy.kassem@gmail.com**
 
 - ⚡ Fun facts: ***Spent 10 years on the basketball court learning that the best teams don't just play together, they think together, and honestly basketball taught me teamwork better than any group project ever did. That stuck with me even after I traded the court for a keyboard in 2020. Now I host deep question games with my friends because small talk genuinely bores me, write more than most people expect from an AI student, and do my best debugging at 2 am when the world is quiet. I can map out an A* algorithm from memory but will absolutely get lost driving in Alexandria. And if you ever see me laughing in a way that's not quite happy and not quite evil, that's just my anger laugh. My friends know to back off.***
 
