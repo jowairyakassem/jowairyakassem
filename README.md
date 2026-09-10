@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Jowairya Kassem👾 (aka JK🤪)</h1>
 <h3 align="center">AI student building intelligent systems across machine learning, full stack development, and system design</h3>
 
-- 🔭 I'm currently working on [my undergrad graduation project]
+- 🔭 I'm currently working on my undergrad graduation project!
 
 - 🌱 I'm currently learning **Advanced SQL, Tableau, and Power BI**
 
