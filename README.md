@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Advanced SQL, Tableau, and Power BI**
 
-- 👯 I'm looking to collaborate on [AI and Data Analytics projects that solve real world problems](https://github.com/jowairyakassem)
+- 👯 I'm looking to collaborate on [AI and Data Analytics projects that solve real world problems](https://gamma.app/docs/Jowairya-Kassem-Data-Analyst-Portfolio-29bsdgy1rtk88px?mode=doc)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jowairyakassem](https://github.com/jowairyakassem)
 
